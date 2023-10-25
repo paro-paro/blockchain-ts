@@ -2,7 +2,7 @@
   "name": "blockchain-ts",
   "private": true,
   "author": "Antonio Parody <aparodyg@gmail.com>",
-  "description": "My own basic blockchain in js",
+  "description": "My own basic blockchain in ts",
   "type": "module",
   "engines": {
     "node": ">=18.0.0",
